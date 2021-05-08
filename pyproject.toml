@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "JDUrls"
-version = "0.1.0"
-description = ""
-authors = ["Francesco"]
+version = "0.1.1"
+license = "LGPL-3.0-or-later"
+description = "Display source urls from JDownloader2 LinkGrabber"
+authors = ["Francesco Guarnieri"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
