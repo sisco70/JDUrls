@@ -5,6 +5,7 @@
 # Ignore all local history of files
 **/.history
 
-
 **/*.pyc
 **/__pycache__/
+
+poetry.lock
